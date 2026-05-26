@@ -1,5 +1,12 @@
 # @changesets/read
 
+## 1.0.0-next.5
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @changesets/git@4.0.0-next.5
+
 ## 1.0.0-next.4
 
 ### Patch Changes
